@@ -4,6 +4,10 @@
 *{margin: 0px; padding: 0px;}
 ul{list-style:none;}
 input[type="radio"]{display: none;}
+a{
+	text-decoration:none;
+	color:white;
+}
 
 /*포지션 속성 세팅*/
 .mainpage{position:absolute; width: 1920px; height: 1080px; overflow: hidden; transition: 1s;}

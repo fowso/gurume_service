@@ -64,10 +64,10 @@
 <li><h2 style="margin-right: 500px; color: white;"><label for=righthome>JSL인재 개발원</label></h2></li>
 
 <li><label class="next1" for="lefthome"><img src="img/floating/main.png"></label></li>
-<li><a href="https://blog.naver.com/jslglobal"><img src="img/floating/iconBlog@2x.png"></a></li>
-<li><a href="https://www.facebook.com/"><img src="img/floating/iconFacebook@2x.png"></a></li>
-<li><a href="https://www.instagram.com/jsl_hrd/"><img src="img/floating/iconInstagram@2x.png"></a></li>
-<li><a href="https://www.youtube.com/watch?v=DJOFbZlugF0"><img src="img/floating/iconYoutube@2x.png"></a></li>
+<li><h2 style="coler:white;"><a href="login/login.jsp">로그인</a></h2></li>
+<li><h2 style="coler:white;"><a href="login/join.jsp">회원가입</a></h2></li>
+<li><h2 style="coler:white;"><a href="login/join2.jsp">매장등록</a></h2></li>
+<li><h2 style="coler:white;"><a href="login/mypage.jsp">마이페이지</a></h2></li>
 </ul>
 </div>
 

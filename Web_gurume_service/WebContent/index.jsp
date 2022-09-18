@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <link href="css/index.css" rel="stylesheet">
+<script src="https://kit.fontawesome.com/8e082fcf6a.js" crossorigin="anonymous"></script>
 <title>Insert title here</title>
 </head>
 <body>
@@ -80,7 +81,7 @@
 						<td><input class="fontsize" type="email" name="t_pw"></td>
 					</tr>
 					<tr class="center">
-						<th colspan="2"><a href="javascript:goSearch()">찾기</a></th>
+						<th colspan="2"><a class="button" href="javascript:goSearch()"> 아이디 찾기 </a></th>
 					</tr>
 					<tr class="center">
 						<th colspan="2">
@@ -105,7 +106,7 @@
 						<td><input class="fontsize" type="email" name="t_pw"></td>
 					</tr>
 					<tr class="center">
-						<th colspan="2"><a href="javascript:goSearch()">찾기</a></th>
+						<th colspan="2"><a class="button" href="javascript:goSearch()"> 비밀번호 찾기 </a></th>
 					</tr>
 					<tr class="center">
 						<th colspan="2">

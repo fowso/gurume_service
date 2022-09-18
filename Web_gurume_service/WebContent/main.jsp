@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <link href="css/index.css" rel="stylesheet">
+<script src="https://kit.fontawesome.com/8e082fcf6a.js" crossorigin="anonymous"></script>
 <title>Insert title here</title>
 </head>
 <body>
@@ -24,59 +25,37 @@
 		<section class="section1">
 		<h2>인기순</h2>
 			<ul style="white-space:nowrap">
+				<li><a><i class="fa-sharp fa-solid fa-circle-arrow-left"></i></i></a></li>
 				<li><img class="size34 float" src="img/background/page1.png"></li>
 				<li><img class="size34 float" src="img/background/page2.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
+				<li><a><i class="fa-sharp fa-solid fa-circle-arrow-right"></i></a></li>
 			</ul>
 		</section>
 		<section class="section2">
 		<h2>거리순</h2>
 			<ul>
+				<li><a><i class="fa-sharp fa-solid fa-circle-arrow-left"></i></a></li>
 				<li><img class="size34 float" src="img/background/page1.png"></li>
 				<li><img class="size34 float" src="img/background/page2.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
+				<li><a><i class="fa-sharp fa-solid fa-circle-arrow-right"></i></a></li>
 			</ul>
 		</section>
 		<section class="section3">
 			<h2>평점순</h2>
 			<ul>
+				<li><a><i class="fa-sharp fa-solid fa-circle-arrow-left"></i></a></li>
 				<li><img class="size34 float" src="img/background/page1.png"></li>
 				<li><img class="size34 float" src="img/background/page2.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
 				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
-				<li><img class="size34 float" src="img/background/page3.png"></li>
+				<li><a><i class="fa-sharp fa-solid fa-circle-arrow-right"></i></a></li>
 			</ul>
 		</section>
 		

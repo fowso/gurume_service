@@ -89,11 +89,6 @@ nav{
 .logintable{
 	width:500px;position:relative;top:200px;left:400px;
 }
-.ablack{
-	text-decoration:none;
-	color:black;
-	margin-left:30px;
-}
 
 input[name=a]{display: none;}
 
@@ -123,16 +118,16 @@ input[id=pagelogin]:checked ~main .hidden2{display: none;}
 /*------로그인용-------------------------------*/
 .login2,.login3{display: none;}
 
-/*
-input[id=idlogin]:checked ~main .login1{display:block;} 
+
+input[id=idlogin]:checked ~main .login1{display:table-row-group;} 
 input[id=idlogin]:checked ~main .login2{display:none;}
 input[id=idlogin]:checked ~main .login3{display:none;}
 
 input[id=idsearch]:checked ~main .login1{display:none;}
-input[id=idsearch]:checked ~main .login2{display:block;}
+input[id=idsearch]:checked ~main .login2{display:table-row-group;}
 input[id=idsearch]:checked ~main .login3{display:none;}
 
-input[id=pwsearch]:checked ~main .login3{display:block;} 
+input[id=pwsearch]:checked ~main .login3{display:table-row-group;} 
 input[id=pwsearch]:checked ~main .login2{display:none;}
 input[id=pwsearch]:checked ~main .login1{display:none;}
 
@@ -142,12 +137,15 @@ section{
 	height:200px;
 }
 .section1{
+	display:inline;
 	position:relative;top:200px;
 }
 .section2{
+	display:inline;
 	position:relative;top:300px;
 }
 .section3{
+	display:inline;
 	position:relative;top:400px;
 }
 
@@ -155,5 +153,15 @@ section{
 	border:1px solid black;
 	height:170px;
 	width:255px;
-
 }
+
+/*-----회원가입페이지용 ----*/
+
+.jointable{
+	width:800px;position:relative;top:200px;left:200px;
+}
+.fontsize2{
+	padding:6px;
+	font-size:15px;
+}
+

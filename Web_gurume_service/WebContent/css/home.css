@@ -1,9 +1,0 @@
-@charset "UTF-8";
-
-
-*{margin: 0px; padding: 0px;}
-ul{list-style: none;}
-
-.header{position: absolute;}
-.header ul li{display: inline-block;}
-
